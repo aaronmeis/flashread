@@ -53,6 +53,7 @@ When the page is opened as a local file, the browser may block the **Paste text*
 |---|---|
 | `index.html` | The app: markup, styles, and script |
 | `packs-data.js` | Built-in samples (original text and public-domain excerpts) |
+| `DISCLAIMER.md` | Comprehension, health, privacy, and content notes |
 
 ## Samples
 
@@ -60,6 +61,10 @@ When the page is opened as a local file, the browser may block the **Paste text*
 - *RSVP method primer* (original)
 - *The Gettysburg Address*, Abraham Lincoln, 1863 (public domain)
 - *Alice's Adventures in Wonderland*, opening of chapter 1, Lewis Carroll, 1865 (public domain)
+
+## Disclaimer
+
+Flashread is a reading aid, provided as is. Comprehension usually drops at high speed, so read important material normally. Take a break if rapid text causes discomfort. See [DISCLAIMER.md](DISCLAIMER.md) for the full notes on comprehension, health, privacy, and content.
 
 ## License
 
